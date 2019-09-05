@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb3bbc88-3024-42de-8fd3-4832857a881e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.ts" afterDir="false" />
-    </list>
+    <list default="true" id="eb3bbc88-3024-42de-8fd3-4832857a881e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -29,15 +27,6 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -56,7 +45,6 @@
         <option value="$PROJECT_DIR$/2.ts" />
         <option value="$PROJECT_DIR$/2_1.ts" />
         <option value="$PROJECT_DIR$/1_1.ts" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/1.ts" />
       </list>
     </option>
@@ -72,17 +60,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="for_git_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="for_git_learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -122,12 +100,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567673763990</updated>
-      <workItem from="1567673765108" duration="3195000" />
+      <workItem from="1567673765108" duration="3746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5879000" />
+    <option name="totallyTimeSpent" value="4575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
@@ -156,21 +134,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_1.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2.ts" />
+    <entry file="file://$PROJECT_DIR$/2_1.ts" />
     <entry file="file://$PROJECT_DIR$/1_1.ts">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -179,5 +146,6 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1_1" />
   </component>
 </project>
